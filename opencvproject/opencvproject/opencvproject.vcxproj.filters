@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Shapes-and-text.cpp">
+    <ClCompile Include="warp-images.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

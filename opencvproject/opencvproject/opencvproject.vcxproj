@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Shapes-and-text.cpp" />
+    <ClCompile Include="warp-images.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Resources\test.png" />

@@ -1,3 +1,13 @@
-﻿  Shapes-and-text.cpp
-C:\Users\KIshan\source\repos\opencvproject\opencvproject\Shapes-and-text.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  warp-images.cpp
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(15,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(24,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(24,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
   opencvproject.vcxproj -> C:\Users\KIshan\source\repos\opencvproject\x64\Debug\opencvproject.exe
