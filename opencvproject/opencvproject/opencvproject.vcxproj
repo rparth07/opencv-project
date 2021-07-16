@@ -19,7 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="vid-import.cpp" />
+    <ClCompile Include="Basic Functions.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\test.png" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

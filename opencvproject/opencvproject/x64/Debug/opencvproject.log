@@ -1,1 +1,3 @@
-﻿  opencvproject.vcxproj -> C:\Users\KIshan\source\repos\opencvproject\x64\Debug\opencvproject.exe
+﻿  Basic Functions.cpp
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\Basic Functions.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  opencvproject.vcxproj -> C:\Users\KIshan\source\repos\opencvproject\x64\Debug\opencvproject.exe
