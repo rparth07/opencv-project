@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Basic Functions.cpp" />
+    <ClCompile Include="Shapes-and-text.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Resources\test.png" />
