@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="color_detection.cpp" />
+    <ClCompile Include="Shapes detection.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Resources\test.png" />

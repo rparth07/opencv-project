@@ -1,3 +1,5 @@
-﻿  color_detection.cpp
-C:\Users\KIshan\source\repos\opencvproject\opencvproject\color_detection.cpp(16,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  Shapes detection.cpp
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\Shapes detection.cpp(23,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\Shapes detection.cpp(28,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\Shapes detection.cpp(59,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
   opencvproject.vcxproj -> C:\Users\KIshan\source\repos\opencvproject\x64\Debug\opencvproject.exe

@@ -27,7 +27,7 @@ void main() {
 	imshow("Image Blur", imgBlur);
 	imshow("Image Canny", imgCanny);
 	imshow("Image Dilation", imgDil);
-	imshow("Image Canny", imgErode); 
+	imshow("Image Erode", imgErode); 
 
 	waitKey(0);
 }
