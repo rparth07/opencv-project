@@ -1,0 +1,43 @@
+﻿  warp-images.cpp
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(15,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(27,53): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(27,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(30,54): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(30,51): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(33,53): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(33,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(36,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\source\repos\opencvproject\opencvproject\warp-images.cpp(36,47): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  opencvproject.vcxproj -> C:\Users\KIshan\source\repos\opencvproject\x64\Debug\opencvproject.exe
