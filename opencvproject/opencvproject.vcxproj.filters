@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Shapes detection.cpp">
+    <ClCompile Include="Face detecction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -6,7 +6,7 @@ using namespace cv;
 using namespace std;
 
 /// <summary>
-/// /////////////////////// Color Detection //////////////////////////////
+/// /////////////////////// Shape Detection //////////////////////////////
 /// </summary>
 
 void getShapes(Mat imgDil, Mat img) {
